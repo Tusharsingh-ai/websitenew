@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+#main{
+    width: 100%;
+}
+#page1{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(92, 242, 92);
+}
+#page2{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(240, 85, 85);
+}
+.sq{
+    height: 10vh;
+    width: 10vh;
+    background-color: #fff;
+}
+#page3{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(85, 173, 240);
+}
